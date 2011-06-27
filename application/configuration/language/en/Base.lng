@@ -1,0 +1,4 @@
+_captcha=CAPTCHA
+_enter_captcha=Please enter security code
+_captcha_empty=Please enter the security code
+_captcha_wrong=The security code was not entered correctly

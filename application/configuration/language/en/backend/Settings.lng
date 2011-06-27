@@ -1,0 +1,4 @@
+CAPTCHA_FORMS=Forms to add CAPTCHA to
+FORM-SUBMIT-REGISTER=User registration
+FORM-SUBMIT-REGISTER-CHECKOUT=Checkout registration
+FORM-SUBMIT-CONTACT=Contact
